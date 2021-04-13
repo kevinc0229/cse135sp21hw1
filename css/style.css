@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* PAGE TITLE */
+.page-title {
+    /* background-color: red; */
+    padding: 30px ;
+}
+
+/* TEAM DESCRIPTION */
+.team-description {
+    /* background-color: yellow; */
+    padding: 0 20px 30px 30px;
+}
+
+.team-description .team-members {
+    background-color: #95a5a6;
+    line-height: 150%;
+    margin-top: 10px;
+    padding: 10px 0 10px 20px;
+    border-radius: 10px;
+}
+
+/* HOMEWORKS */
+.homeworks {
+    /* background-color: green; */
+    padding: 0 20px 15px 30px;
+}
+
+.homeworks .homework-assignments {
+    background-color: #95a5a6;
+    line-height: 150%;
+    margin-top: 10px;
+    padding: 10px 0 10px 40px;
+    border-radius: 10px;
+}
