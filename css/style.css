@@ -36,3 +36,9 @@
     padding: 10px 0 10px 40px;
     border-radius: 10px;
 }
+
+/* HOMEWORK 2 */
+#homework-two .homework-assignments{
+    display: flex;
+    background-color: red;
+}
